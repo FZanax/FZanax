@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ing
 - 💞️ I’m looking to collaborate on computer
 - 📫 How to reach me @fn_zanax instagram
-- 😄 Pronouns: Za/Nax
-- ⚡ Fun fact: I´m racist (like races)
 
 <!---
 FZanax/FZanax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
